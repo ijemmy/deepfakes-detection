@@ -1,0 +1,51 @@
+name: deepfake-detection
+channels:
+  - defaults
+dependencies:
+  - glib
+  - h5py
+  - hdf5
+  - imagesize
+  - intel-openmp
+  - jasper
+  - jinja2
+  - joblib
+  - jpeg
+  - libopencv
+  - libpng
+  - matplotlib
+  - matplotlib-base
+  - numpy
+  - numpy-base
+  - olefile
+  - opencv
+  - pandas
+  - pcre
+  - pillow
+  - pip
+  - pixman
+  - protobuf
+  - py-boost
+  - py-opencv
+  - pycparser
+  - pygments
+  - pyopenssl
+  - pyparsing
+  - pysocks
+  - python
+  - python-dateutil
+  - pytz
+  - pyyaml
+  - scikit-learn
+  - scipy
+  - ffmpeg
+  - tensorflow
+  - keras-applications
+  - keras-preprocessing
+  - jupyter
+  - scikit-image
+  - pip:
+    - opencv-python
+    - mtcnn
+    - ipdb
+
