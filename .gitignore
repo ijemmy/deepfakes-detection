@@ -1,2 +1,9 @@
 .idea
 .vscode
+venv
+.DS_Store
+
+# Videos and image folders
+DeepfakeTIMIT
+VidTIMIT
+output_folder
