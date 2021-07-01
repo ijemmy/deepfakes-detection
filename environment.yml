@@ -48,4 +48,6 @@ dependencies:
     - opencv-python
     - mtcnn
     - ipdb
+    - jasper
+    - glib
 
