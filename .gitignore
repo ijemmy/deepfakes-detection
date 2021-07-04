@@ -7,5 +7,6 @@ venv
 DeepfakeTIMIT
 VidTIMIT
 output_folder
+detected_faces_folder
 test1*
 test2*
